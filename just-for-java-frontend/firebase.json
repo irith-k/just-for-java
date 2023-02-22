@@ -1,0 +1,14 @@
+{
+	"hosting": {
+	  "public": "build",  // the only required attribute for Hosting
+	  "ignore": [
+	    "firebase.json",
+	    "**/.*",
+	    "**/node_modules/**"
+	  ],
+	  "rewrites": [{
+	  	"source": "**",
+	  	"destination": "/index.html"
+	  }]
+	}
+}

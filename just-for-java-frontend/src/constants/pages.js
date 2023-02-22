@@ -1,0 +1,33 @@
+export const pages = [
+	{name: "", displayName: "home", isConceptPage: false},
+	{name: "about", displayName: "about", isConceptPage: false},
+	{name: "contact-us", displayName: "contact us", isConceptPage: false},
+	{name: "getting-started", displayName: "getting started", isConceptPage: true},
+	{name: "variables", displayName: "variables", isConceptPage: true},
+	{name: "comments", displayName: "comments", isConceptPage: true},
+	{name: "printing", displayName: "printing", isConceptPage: true},
+	{name: "arithmetic", displayName: "arithmetic", isConceptPage: true},
+	{name: "strings", displayName: "strings", isConceptPage: true},
+	{name: "escape-sequences", displayName: "escape sequences", isConceptPage: true},
+	{name: "user-input", displayName: "user input", isConceptPage: true},
+	{name: "math", displayName: "math", isConceptPage: true},
+	{name: "if-statement", displayName: "if statement", isConceptPage: true},
+	{name: "boolean-logic", displayName: "boolean logic", isConceptPage: true},
+	{name: "constants", displayName: "constants", isConceptPage: true},
+	{name: "for-loop", displayName: "for loop", isConceptPage: true},
+	{name: "while-loop", displayName: "while loop", isConceptPage: true},
+	{name: "nesting", displayName: "nesting", isConceptPage: true},
+	{name: "break", displayName: "break", isConceptPage: true},
+	{name: "functions", displayName: "functions", isConceptPage: true},
+	{name: "overloading", displayName: "overloading", isConceptPage: true},
+	{name: "array", displayName: "array", isConceptPage: true},
+	{name: "for-each-loop", displayName: "for-each loop", isConceptPage: true},
+	{name: "2d-array", displayName: "2d array", isConceptPage: true},
+	{name: "arraylist", displayName: "arraylist", isConceptPage: true},
+	/*
+	{name: "hashmap", displayName: "hashmap", isConceptPage: true},
+	{name: "random-numbers", displayName: "random numbers", isConceptPage: true},
+	{name: "ascii", displayName: "ascii", isConceptPage: true},
+	{name: "searching", displayName: "searching", isConceptPage: true}
+	*/
+];
